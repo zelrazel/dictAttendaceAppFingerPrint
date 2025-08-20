@@ -30,13 +30,13 @@
    npm install
    ```
 
-4. Start the backend server:
+4. Open new terminal and Start the backend server:
    ```
    cd backend
    npm start
    ```
 
-5. Start the frontend app:
+5. Open new terminal and Start the frontend app:
    ```
    cd frontend/frontend-expo
    npm start
