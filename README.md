@@ -46,7 +46,7 @@
    - **Make sure your phone and PC are connected to the same Wi-Fi network.**
    - And also temporarily disable your PC's firewall (such as Windows Defender Firewall) to allow your phone to access the development server.
 
-# Profile Picture Upload Sample (Cloudinary)
+# Profile Picture Upload (Cloudinary)
 
 ## Setup
 
