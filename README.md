@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Install dependencies:
+1. Install dependencies globally:
    ```
    npm install
    ```
