@@ -1,0 +1,39 @@
+# === Node.js dependencies ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Environment files ===
+.env
+.env*.local
+
+# === Logs ===
+logs
+*.log
+
+# === Build artifacts ===
+dist/
+build/
+web-build/
+expo-env.d.ts
+
+# === Expo / React Native ===
+.expo/
+.expo-shared/
+*.apk
+*.aab
+
+# === macOS ===
+.DS_Store
+
+# === TypeScript ===
+*.tsbuildinfo
+
+# === Misc ===
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.mobileprovision
